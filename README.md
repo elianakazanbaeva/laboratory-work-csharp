@@ -298,3 +298,6 @@ pos будут вставлены значения массива ins.
 
 ### Тестирование
 ![](https://sun9-11.vkuserphoto.ru/s/v1/ig2/p99ji2Jqw4RwYwXZf3v2IbPiZaBScdVcRUtCScJ2M84KldgJIR0T4rQlyqsS8OsKoJoBdtVQrx4PIA4rZIUOpSfC.jpg?quality=95&as=32x33,48x50,72x75,108x113,160x167,240x251,360x376,461x482&from=bu&u=LxeIToIm8hHUDpPpgYpjzFOVQq5cBE-ADOYR7rOTHuE&cs=461x0)
+
+
+GitHub: https://github.com/elianakazanbaeva/laboratory-work-csharp
