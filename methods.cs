@@ -2,7 +2,7 @@ using System;
 
 public class Methods
 {
-    public double DoubleValidation(string question)
+    public double DoubleValidation(string question) //валидация нецелых чисел
     {
         double result;
         Console.Write(question);
@@ -244,11 +244,10 @@ public class Methods
             size = NumberValidation7("Введите размер массива заново: ");
         }
 
-        Random rnd = new Random();
         int[] arr = new int[size];
         for (int i = 0; i < arr.Length; i++)
         {
-            arr[i] = rnd.Next(1, 101);
+            arr[i] = NumberValidation7("Введите элемент arr[" + i + "]: ");
         }
 
         return arr;
