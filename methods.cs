@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 public class Methods
 {
@@ -10,6 +10,7 @@ public class Methods
         {
             Console.Write("Ошибка! Введите корректное число: ");
         }
+
         return result;
     }
 
@@ -24,7 +25,7 @@ public class Methods
         while (true)
         {
             Console.Write("Введите одну цифру от 0 до 9: ");
-            string input = Console.ReadLine() ;
+            string input = Console.ReadLine();
             if (input.Length != 1)
             {
                 Console.WriteLine("Ошибка: нужно ввести ровно один символ.");
@@ -42,73 +43,114 @@ public class Methods
         }
     }
 
-    public int charToNum(char x) //1_3
+    public int CharToNum(char x) //1_3
     {
         return x - '0';
     }
 
-    public bool is2Digits(int x) //1_5
+    public bool Is2Digits(int x) //1_5
     {
-        return 9 < x & x < 100;
+        return x > 9 && x < 100;
     }
 
-    public bool isInRange(int a, int b, int num) //1_7
+    public bool IsInRange(int a, int b, int num) //1_7
     {
-        int min, max;
-        if (a < b) { min = a; max = b; }
-        else       { min = b; max = a; }
+        int min;
+        int max;
+        if (a < b)
+        {
+            min = a;
+            max = b;
+        }
+        else
+        {
+            min = b;
+            max = a;
+        }
 
         return num >= min && num <= max;
     }
 
-    public bool isEqual(int a, int b, int c) //1_9
+    public bool IsEqual(int a, int b, int c) //1_9
     {
-        return (a == b) && (c == a);
+        return a == b && c == a;
     }
 
-    public int abs(int x) //2_1
+    public int Abs(int x) //2_1
     {
-        if (x < 0) return -x;
+        if (x < 0)
+        {
+            return -x;
+        }
+
         return x;
     }
 
-    public bool is35(int x) //2_3
+    public bool Is35(int x) //2_3
     {
-        if ((x % 3 == 0) & (x % 5 != 0)) return true;
-        if ((x % 3 != 0) & (x % 5 == 0)) return true;
+        if ((x % 3 == 0) && (x % 5 != 0))
+        {
+            return true;
+        }
+
+        if ((x % 3 != 0) && (x % 5 == 0))
+        {
+            return true;
+        }
+
         return false;
     }
 
-    public int max3(int x, int y, int z) //2_5
+    public int Max3(int x, int y, int z) //2_5
     {
-        if (y > x) x = y;
-        if (z > x) x = z;
+        if (y > x)
+        {
+            x = y;
+        }
+
+        if (z > x)
+        {
+            x = z;
+        }
+
         return x;
     }
 
-    public int sum2(int x, int y) //2_7
+    public int Sum2(int x, int y) //2_7
     {
         int summa = x + y;
-        if ((summa > 9) & (summa < 20)) return 20;
+        if (summa > 9 && summa < 20)
+        {
+            return 20;
+        }
+
         return summa;
     }
 
-    public string day(int x) //2_9
+    public string Day(int x) //2_9
     {
         switch (x)
         {
-            case 1: return "понедельник";
-            case 2: return "вторник";
-            case 3: return "среда";
-            case 4: return "четверг";
-            case 5: return "пятница";
-            case 6: return "суббота";
-            case 7: return "воскресенье";
-            default: return "это не день недели";
+            case 1:
+                return "понедельник";
+            case 2:
+                return "вторник";
+            case 3:
+                return "среда";
+            case 4:
+                return "четверг";
+            case 5:
+                return "пятница";
+            case 6:
+                return "суббота";
+            case 7:
+                return "воскресенье";
+            default:
+                return "это не день недели";
         }
     }
 
-    public string reverseListNums(int x) //3_1
+    public string ReverseListNums(int x) //3_1
     {
         if (x <= 0)
         {
@@ -122,10 +164,11 @@ public class Methods
             nums[j] = i.ToString();
             j++;
         }
+
         return string.Join(" ", nums);
     }
 
-    public string chet(int x) //3_3
+    public string Chet(int x) //3_3
     {
         string result = "";
 
@@ -157,12 +200,12 @@ public class Methods
         return result;
     }
 
-    public int numLen(long x) //3_5
+    public int NumLen(long x) //3_5
     {
         return x.ToString().Length;
     }
 
-    public void square(int x) //3_7
+    public void Square(int x) //3_7
     {
         if (x > 0)
         {
@@ -183,21 +226,22 @@ public class Methods
         }
     }
 
-    public void rightTriangle(int x) //3_9
+    public void RightTriangle(int x) //3_9
     {
-        char c = '*', pr = ' ';
+        char c = '*';
+        char pr = ' ';
         for (int i = 1; i < x + 1; i++)
         {
-            Console.WriteLine(new string(pr, (x - i)) + new string(c, (i)));
+            Console.WriteLine(new string(pr, x - i) + new string(c, i));
         }
     }
 
-    public int[] creat_array(int size)
+    public int[] CreatArray(int size)
     {
         while (size < 0)
         {
             Console.WriteLine("Ошибка: размер массива не может быть отрицательным.");
-            size = (int)NumberValidation7("Введите размер массива заново: ");
+            size = NumberValidation7("Введите размер массива заново: ");
         }
 
         Random rnd = new Random();
@@ -206,44 +250,68 @@ public class Methods
         {
             arr[i] = rnd.Next(1, 101);
         }
+
         return arr;
     }
 
-    public int findFirst(int[] arr, int x) //4_1
+    public int FindFirst(int[] arr, int x) //4_1
     {
         for (int i = 0; i < arr.Length; i++)
         {
-            if (arr[i] == x) return i;
+            if (arr[i] == x)
+            {
+                return i;
+            }
         }
+
         return -1;
     }
 
-    public int maxAbs(int[] arr) //4_3
+    public int MaxAbs(int[] arr) //4_3
     {
-        int max_num = -1, max;
+        int maxNum = -1;
         for (int i = 0; i < arr.Length; i++)
         {
-            max = Math.Abs(arr[i]);
-            max_num = Math.Max(max, max_num);
+            int max = Math.Abs(arr[i]);
+            maxNum = Math.Max(max, maxNum);
         }
-        return max_num;
+
+        return maxNum;
     }
 
-    public int[] add(int[] arr, int[] ins, int pos) //4_5
+    public int[] Add(int[] arr, int[] ins, int pos) //4_5
     {
-        if (pos < 0) pos = 0;
-        if (pos > arr.Length) pos = arr.Length;
+        if (pos < 0)
+        {
+            pos = 0;
+        }
+
+        if (pos > arr.Length)
+        {
+            pos = arr.Length;
+        }
 
         int[] result = new int[arr.Length + ins.Length];
 
-        for (int i = 0; i < pos; i++) result[i] = arr[i];
-        for (int i = 0; i < ins.Length; i++) result[pos + i] = ins[i];
-        for (int i = pos; i < arr.Length; i++) result[i + ins.Length] = arr[i];
+        for (int i = 0; i < pos; i++)
+        {
+            result[i] = arr[i];
+        }
+
+        for (int i = 0; i < ins.Length; i++)
+        {
+            result[pos + i] = ins[i];
+        }
+
+        for (int i = pos; i < arr.Length; i++)
+        {
+            result[i + ins.Length] = arr[i];
+        }
 
         return result;
     }
 
-    public int[] reverseBack(int[] arr) //4_7
+    public int[] ReverseBack(int[] arr) //4_7
     {
         for (int i = 0; i < arr.Length / 2; i++)
         {
@@ -251,29 +319,33 @@ public class Methods
             arr[i] = arr[arr.Length - 1 - i];
             arr[arr.Length - 1 - i] = temp;
         }
+
         return arr;
     }
 
-    public int[] findAll(int[] arr, int x) //4_9
+    public int[] FindAll(int[] arr, int x) //4_9
     {
         int count = 0;
         for (int i = 0; i < arr.Length; i++)
         {
-            if (arr[i] == x) count++;
+            if (arr[i] == x)
+            {
+                count++;
+            }
         }
 
-        int[] result1 = new int[count];
+        int[] result = new int[count];
         count = 0;
         for (int i = 0; i < arr.Length; i++)
         {
             if (arr[i] == x)
             {
-                result1[count] = i;
+                result[count] = i;
                 count++;
             }
         }
 
-        return result1;
+        return result;
     }
 
     public int NumberValidation7(string question) //проверка на число
@@ -285,7 +357,7 @@ public class Methods
         while (!valid)
         {
             Console.WriteLine(question);
-            input = Console.ReadLine() ;
+            input = Console.ReadLine();
 
             if (input.Length == 0)
             {
@@ -315,26 +387,52 @@ public class Methods
             {
                 switch (input[i])
                 {
-                    case '0': value = value * 10 + 0; break;
-                    case '1': value = value * 10 + 1; break;
-                    case '2': value = value * 10 + 2; break;
-                    case '3': value = value * 10 + 3; break;
-                    case '4': value = value * 10 + 4; break;
-                    case '5': value = value * 10 + 5; break;
-                    case '6': value = value * 10 + 6; break;
-                    case '7': value = value * 10 + 7; break;
-                    case '8': value = value * 10 + 8; break;
-                    case '9': value = value * 10 + 9; break;
+                    case '0':
+                        value = value * 10 + 0;
+                        break;
+                    case '1':
+                        value = value * 10 + 1;
+                        break;
+                    case '2':
+                        value = value * 10 + 2;
+                        break;
+                    case '3':
+                        value = value * 10 + 3;
+                        break;
+                    case '4':
+                        value = value * 10 + 4;
+                        break;
+                    case '5':
+                        value = value * 10 + 5;
+                        break;
+                    case '6':
+                        value = value * 10 + 6;
+                        break;
+                    case '7':
+                        value = value * 10 + 7;
+                        break;
+                    case '8':
+                        value = value * 10 + 8;
+                        break;
+                    case '9':
+                        value = value * 10 + 9;
+                        break;
                     default:
                         Console.WriteLine("Ошибка: нужно ввести целое число.");
                         valid = false;
                         break;
                 }
 
-                if (!valid) break;
+                if (!valid)
+                {
+                    break;
+                }
             }
 
-            if (!valid) continue;
+            if (!valid)
+            {
+                continue;
+            }
 
             result = negative ? -value : value;
         }
