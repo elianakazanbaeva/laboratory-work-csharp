@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        /*
+        
         //1
         Console.WriteLine("Задача 1");
         int n = InputHelper.ReadOddPositiveInt(
@@ -119,7 +119,7 @@ internal class Program
         int k = InputHelper.ReadPositiveInt(
             "Введите максимальную цену k: ");
         FileTasks.FindToys(file5, k);
-*/
+
         //6
         Console.WriteLine();
         Console.WriteLine("Задача 6");
