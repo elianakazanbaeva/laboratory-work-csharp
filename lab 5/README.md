@@ -1,4 +1,4 @@
-<img width="252" height="387" alt="image" src="https://github.com/user-attachments/assets/97492f50-5925-48e3-a7d3-e64031fa1327" /># Казанбаева Элена ЛА-1 Лабораторная №5
+# Казанбаева Элена ЛА-1 Лабораторная №5
 
 ## Задание 1
 
@@ -95,8 +95,8 @@ descending, club.CountryId descending ставит нужный клуб пер�
 Сложность O(n log n) из-за сортировки.
 
 ### Тестирование
-![](https://sun9-56.vkuserphoto.ru/s/v1/ig2/kOJTSGVCz5wZnCAcAhRDq3pvw0M8POA_8dnScYXYLF8MMQ0xH7WOIuKxumvvN3BpAcYUbbslASet22YoBrKGXYy5.jpg?quality=95&as=32x49,48x74,72x111,108x166,160x246,240x369,252x387&from=bu&cs=252x0)
-![](https://sun9-46.vkuserphoto.ru/s/v1/ig2/0i_1bzA_u9HUsycen1uFsulYtSp3r4cqjQpu9Gs2_FXN7ZZZTXGLUxg3o6GyVvhB-HDOPIExOdzvEh_6V7FOQ0td.jpg?quality=95&as=32x37,48x56,72x83,108x125,160x185,240x278,276x320&from=bu&cs=276x0)
+![](https://sun9-51.vkuserphoto.ru/s/v1/ig2/EMdn9VQnrmnLvTHQDUpKtNpNEUzBKbCIagWuegiRuX-eoxpHZ0jWIe3cROr5-DPNkQllA-GlkM4WwoY_m75CjB1b.jpg?quality=95&as=32x9,48x13,72x19,108x29,160x43,240x65,277x75&from=bu&cs=277x0)
+![](https://sun9-38.vkuserphoto.ru/s/v1/ig2/KWDhqeNLmR8tlbBAUTCf0AgHmldx9nRRKbRyW3OkZTgrK5gGLTAP6OmNbJSGF-Spm3VAIRx0vd-3-Cs69ZQDL7Ux.jpg?quality=95&as=32x9,48x13,72x19,108x29,160x43,240x64,299x80&from=bu&cs=299x0)
 
 ## Задание 5
 
@@ -115,8 +115,8 @@ new формируется анонимный тип с полями Club, Count
 
 ### Тестирование
 
-![]()
-![]()
+![](https://sun9-68.vkuserphoto.ru/s/v1/ig2/Iw58K305nwlNkdQTg7PyrcaRgurPge1XWBMsMgOeSJHOJ-Xj6IiLPa2-mXyn3WFkGVUBcxvBdqSGcLGfGqMvtNce.jpg?quality=95&as=32x51,48x76,72x114,108x171,160x253,240x380,338x535&from=bu&u=KDwEewqevZpBCmd5rE9GAbvaEYnpNMY5ZZRsLcwaH9c&cs=338x0)
+![](https://sun9-6.vkuserphoto.ru/s/v1/ig2/zpOx6hud5pEg_s3q0H8B0-SWk2zKstEwaZ8kRjNWODdpGvGZCJjzWNslTQhf22ah459iukm1PEKui8NqB235lp0y.jpg?quality=95&as=32x7,48x10,72x16,108x23,160x35,240x52,253x55&from=bu&cs=253x0)
 
 ## Задание 6
 
@@ -135,5 +135,5 @@ EuropaLeague, CupWinners и ConferenceLeague, и проверяется, что 
 O(n log n) с учётом сортировки и хеширования в Distinct.
 
 ### Тестирование
-![]()
-![]()
+![](https://sun9-77.vkuserphoto.ru/s/v1/ig2/TJpMsYIzyYgNHdswuLjR3HaUt4EK6e_N_tWy3JhDLONm2puLzYj1R68xoVDNe-z73MQbek2_-ME187zAt3hds-Mu.jpg?quality=95&as=32x44,48x66,72x98,108x148,160x219,205x280&from=bu&u=tz4hvj0QqVCkjSxH-Qvpu7UohYMhEAIxh4SmAtkoJ_Q&cs=205x0)
+![](https://sun9-46.vkuserphoto.ru/s/v1/ig2/Y5aYHEkxESKrQV5e8xh7igbmaTRGy5-QQgv1C5KI-gfMNt25HLOUuryzojTAht4TMbgFmsr_YuaZwjGclOPpqltj.jpg?quality=95&as=32x7,48x11,72x16,108x25,160x36,228x52&from=bu&cs=228x0)
