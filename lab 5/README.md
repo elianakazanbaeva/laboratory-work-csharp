@@ -53,9 +53,9 @@ InputHelper.
 ![](https://sun9-72.vkuserphoto.ru/s/v1/ig2/plJQ7N1Q6m5PBV2wkUBvKEbqHR082uizLBislBiW6LQDgPgOS2XgLHFbynVKIVMYrFylhsynBt4ld_hLrB3O1yAj.jpg?quality=95&as=32x20,48x30,72x45,108x67,160x99,240x149,260x161&from=bu&cs=260x0)
 ![](https://sun9-54.vkuserphoto.ru/s/v1/ig2/NrBDHkSRi1ASisE1SN1gJjyZV6BGto0J1IwAbobvilsgR3ncVOyoxfY9Y4guQ0WUhfYIALBui2zHufN091CIhtWZ.jpg?quality=95&as=32x15,48x23,72x34,108x51,160x75,240x113,360x169,371x174&from=bu&cs=371x0)
 ![](https://sun9-83.vkuserphoto.ru/s/v1/ig2/ycxb7QY9oAkefCy7IJG0wBFslviHgvak6PFxJzBgUQTMQwjHP2MOxuScMRBpZ32Q_S1bWttfdD8-6Uwt-l-M0gqy.jpg?quality=95&as=32x41,48x61,72x92,108x137,160x204,240x306,271x345&from=bu&cs=271x0)
-![]()
-![]()
-![]()
+![](https://sun9-54.vkuserphoto.ru/s/v1/ig2/j8RhEnrxsysKwog34ljC5WvAooLNgQft32KSvA5qg-Zz5RcQBMMtdhZ-JNVMyq8N0llXjetmJExylC294yF2eK2I.jpg?quality=95&as=32x14,48x21,72x32,108x48,160x71,240x106,360x159,480x212,540x239,577x255&from=bu&cs=577x0)
+![](https://sun9-15.vkuserphoto.ru/s/v1/ig2/Qz-q3AG_UGYrBU0dclBJViWRJ25MYpBDd9CQ3QvJgBySVFb8Pv9X2b4WfbyPslTqDSCFgfJs6gr8G7u9_UNC3Zco.jpg?quality=95&as=32x19,48x29,72x43,108x65,160x96,240x144,360x216,480x287,511x306&from=bu&cs=511x0)
+![](https://sun9-50.vkuserphoto.ru/s/v1/ig2/w4tlwu53ra-_Khx_22TECJ2xOnPpepFqWMTfV2ZE4ckrP03esQPBT--deeU62ab6yLcfeBJ4sPewcmo7gYWa0LcD.jpg?quality=95&as=32x8,48x13,72x19,108x28,160x42,240x63,360x94,480x125,540x141,640x167,720x188,1031x269&from=bu&cs=1031x0)
 ![]()
 
 ## Задание 3
