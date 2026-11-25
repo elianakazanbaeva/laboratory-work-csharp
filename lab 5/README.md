@@ -1,4 +1,4 @@
-# Казанбаева Элена ЛА-1 Лабораторная №5
+<img width="252" height="387" alt="image" src="https://github.com/user-attachments/assets/97492f50-5925-48e3-a7d3-e64031fa1327" /># Казанбаева Элена ЛА-1 Лабораторная №5
 
 ## Задание 1
 
@@ -48,6 +48,7 @@ InputHelper.
 
 ### Тестирование
 ![](https://sun9-56.vkuserphoto.ru/s/v1/ig2/kOJTSGVCz5wZnCAcAhRDq3pvw0M8POA_8dnScYXYLF8MMQ0xH7WOIuKxumvvN3BpAcYUbbslASet22YoBrKGXYy5.jpg?quality=95&as=32x49,48x74,72x111,108x166,160x246,240x369,252x387&from=bu&cs=252x0)
+![](https://sun9-46.vkuserphoto.ru/s/v1/ig2/0i_1bzA_u9HUsycen1uFsulYtSp3r4cqjQpu9Gs2_FXN7ZZZTXGLUxg3o6GyVvhB-HDOPIExOdzvEh_6V7FOQ0td.jpg?quality=95&as=32x37,48x56,72x83,108x125,160x185,240x278,276x320&from=bu&cs=276x0)
 ![](https://sun9-38.vkuserphoto.ru/s/v1/ig2/mH8OEpKqzASX1E7w2eRVcXvRHsDVjYcC4WC8etbYBz3P6kVdSLIXnLhyrlmjbJNFsWnSJmuSqBGSED_uI4bwcoHq.jpg?quality=95&as=32x63,48x95,72x142,108x213,160x315,240x473,311x613&from=bu&cs=311x0)
 ![](https://sun9-45.vkuserphoto.ru/s/v1/ig2/o_b7Jw9X-fhYN6ezGxsvdwlV1365iZrbY-ittAmelKCqSl7be6C4tFLYHpzmJFwSvfWjaWl2IaIeAAgQVFH_tUC-m_Hnbw.jpg?quality=95&as=32x36,48x54,72x81,108x122,160x180,240x270,263x296&from=bu&cs=263x0)
 ![](https://sun9-72.vkuserphoto.ru/s/v1/ig2/plJQ7N1Q6m5PBV2wkUBvKEbqHR082uizLBislBiW6LQDgPgOS2XgLHFbynVKIVMYrFylhsynBt4ld_hLrB3O1yAj.jpg?quality=95&as=32x20,48x30,72x45,108x67,160x99,240x149,260x161&from=bu&cs=260x0)
@@ -56,7 +57,6 @@ InputHelper.
 ![](https://sun9-54.vkuserphoto.ru/s/v1/ig2/j8RhEnrxsysKwog34ljC5WvAooLNgQft32KSvA5qg-Zz5RcQBMMtdhZ-JNVMyq8N0llXjetmJExylC294yF2eK2I.jpg?quality=95&as=32x14,48x21,72x32,108x48,160x71,240x106,360x159,480x212,540x239,577x255&from=bu&cs=577x0)
 ![](https://sun9-15.vkuserphoto.ru/s/v1/ig2/Qz-q3AG_UGYrBU0dclBJViWRJ25MYpBDd9CQ3QvJgBySVFb8Pv9X2b4WfbyPslTqDSCFgfJs6gr8G7u9_UNC3Zco.jpg?quality=95&as=32x19,48x29,72x43,108x65,160x96,240x144,360x216,480x287,511x306&from=bu&cs=511x0)
 ![](https://sun9-50.vkuserphoto.ru/s/v1/ig2/w4tlwu53ra-_Khx_22TECJ2xOnPpepFqWMTfV2ZE4ckrP03esQPBT--deeU62ab6yLcfeBJ4sPewcmo7gYWa0LcD.jpg?quality=95&as=32x8,48x13,72x19,108x28,160x42,240x63,360x94,480x125,540x141,640x167,720x188,1031x269&from=bu&cs=1031x0)
-![]()
 
 ## Задание 3
 
@@ -73,7 +73,8 @@ LINQ-запрос с обращением к одной таблице и воз
 Результат — единственное целое число.
 
 ### Тестирование
-![]()
+![](https://sun9-45.vkuserphoto.ru/s/v1/ig2/REY59XtadqhPBN-0eBmfCwfQsphJHH-eBsXM_BA7IwC8k3O206gDSjzS9Iv68GmO9zPIq3qyHLL3A2fypreTSVlk.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,201x113&from=bu&u=cNfCqaWuNfiLCAU1ybhEPd2VwDDFpK_Li1cjowpOFcY&cs=201x0)
+![](https://sun9-4.vkuserphoto.ru/s/v1/ig2/LPFMwXJx6U5zb2bpTAGfwr-jI97dCWyGRM7ZwyxGgkeCaFvSjyWkKL12U_0iLQwpaZLMO89yP4Nl8A7H3VjwcMeJ.jpg?quality=95&as=32x12,48x18,72x28,108x41,160x61,211x81&from=bu&cs=211x0)
 
 ## Задание 4
 
@@ -94,7 +95,8 @@ descending, club.CountryId descending ставит нужный клуб пер�
 Сложность O(n log n) из-за сортировки.
 
 ### Тестирование
-![]()
+![](https://sun9-56.vkuserphoto.ru/s/v1/ig2/kOJTSGVCz5wZnCAcAhRDq3pvw0M8POA_8dnScYXYLF8MMQ0xH7WOIuKxumvvN3BpAcYUbbslASet22YoBrKGXYy5.jpg?quality=95&as=32x49,48x74,72x111,108x166,160x246,240x369,252x387&from=bu&cs=252x0)
+![](https://sun9-46.vkuserphoto.ru/s/v1/ig2/0i_1bzA_u9HUsycen1uFsulYtSp3r4cqjQpu9Gs2_FXN7ZZZTXGLUxg3o6GyVvhB-HDOPIExOdzvEh_6V7FOQ0td.jpg?quality=95&as=32x37,48x56,72x83,108x125,160x185,240x278,276x320&from=bu&cs=276x0)
 
 ## Задание 5
 
@@ -115,9 +117,6 @@ new формируется анонимный тип с полями Club, Count
 
 ![]()
 ![]()
-![]()
-![]()
-![]()
 
 ## Задание 6
 
@@ -136,4 +135,5 @@ EuropaLeague, CupWinners и ConferenceLeague, и проверяется, что 
 O(n log n) с учётом сортировки и хеширования в Distinct.
 
 ### Тестирование
+![]()
 ![]()
